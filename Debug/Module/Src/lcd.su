@@ -1,0 +1,14 @@
+lcd.c:8:6:LCD_send_virtual	24	static
+lcd.c:27:6:LCD_send_true	16	static
+lcd.c:35:6:Lcd_WriteData	16	static
+lcd.c:44:6:Lcd_WriteIndex	16	static
+lcd.c:53:6:Lcd_WriteData_16	16	static
+lcd.c:63:6:reset	8	static
+lcd.c:73:6:LCD_init	8	static
+lcd.c:185:6:LCD_ptlon	24	static
+lcd.c:204:6:LCD_clear	24	static
+lcd.c:215:6:LCD_rectangle	32	static
+lcd.c:224:6:LCD_char	40	static
+lcd.c:252:6:LCD_str	32	static
+lcd.c:261:6:LCD_num	48	static
+lcd.c:283:6:LCD_pic	16	static

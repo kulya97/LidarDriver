@@ -1,0 +1,7 @@
+readFlash.c:5:9:sendByte	16	static
+readFlash.c:14:9:readID	24	static
+readFlash.c:22:6:eraseData	32	static
+readFlash.c:31:6:readData	40	static
+readFlash.c:39:6:writeEnabled	24	static
+readFlash.c:45:6:waitWrite	24	static
+readFlash.c:56:6:writeData	40	static

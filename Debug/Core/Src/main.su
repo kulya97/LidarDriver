@@ -1,0 +1,11 @@
+stm32f4xx_ll_usart.h:1791:26:LL_USART_IsActiveFlag_RXNE	16	static
+stm32f4xx_ll_usart.h:2034:22:LL_USART_EnableIT_RXNE	16	static
+stm32f4xx_ll_usart.h:2067:22:LL_USART_EnableIT_PE	16	static
+stm32f4xx_ll_usart.h:2402:25:LL_USART_ReceiveData8	16	static
+stm32f4xx_ll_usart.h:2425:22:LL_USART_TransmitData8	16	static
+stm32f4xx_ll_gpio.h:883:22:LL_GPIO_SetOutputPin	16	static
+stm32f4xx_ll_gpio.h:912:22:LL_GPIO_ResetOutputPin	16	static
+main.c:84:5:main	64	static
+main.c:165:6:SystemClock_Config	88	static
+main.c:216:6:USART_RxIdleCallback	16	static
+main.c:251:6:Error_Handler	4	static
